@@ -1,5 +1,7 @@
 # Wave Mobile
 
+[![Android CI](https://github.com/joaolamin-dev/Wave-Mobile/actions/workflows/android.yml/badge.svg)](https://github.com/joaolamin-dev/Wave-Mobile/actions/workflows/android.yml)
+
 Cliente Android da plataforma de streaming musical Wave, que consome a mesma API REST usada pelo site.
 
 ## Funcionalidades
